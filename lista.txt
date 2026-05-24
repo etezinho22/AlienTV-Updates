@@ -42,12 +42,6 @@ Televisa : https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 SERIES: 
 
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/6fc9a17ef977b40578ce7fcb98eb534d/master.txt
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/360fc24ef6aff8cfdd25637377fc0f6b/master.txt
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/698c0eb52784be2df2dbd0e1c491fe03/master.txt
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/d1575a712001f84ff50c86188569ea2b/master.txt
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/03d3c03f5233335ff6701134fb7e0a76/master.txt
-56 Dias S1 : https://embedplayer1.xyz/cdn/hls/003493c80ee49b5e3bab029afe4a32b1/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/c359a355be7e437799d816aa6477118d/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/961583ed7039cec5199eeebb6f8a9962/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/66ec6f4d69238285e980ab10851bb77c/master.txt
@@ -58,6 +52,13 @@ OS DEZ MANDAMENTOS : https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m
 A TERRA PROMETIDA : https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
 HEARTLAND : https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
 ROOKIE BLUE : https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/24d9651be0ba41cdbf0c3cb7aa8ab509/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/ccef1fb2964e9621ae5e610d89863d22/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/f89debd4b5712e0ddd3d00292545111c/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/946819be645435b8754a2a2c79c2a420/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/dcb9fa030b0b2485b746ebcc44780153/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/4af6c2b2748220db915985f6e3a9b7ed/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/2f998fb5ee146cb3dc9ffe728fcd7845/master.txt
 
 MUSICAS:
 
