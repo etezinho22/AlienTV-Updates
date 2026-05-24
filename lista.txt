@@ -42,6 +42,12 @@ Televisa : https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 SERIES: 
 
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/6fc9a17ef977b40578ce7fcb98eb534d/master.txt
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/360fc24ef6aff8cfdd25637377fc0f6b/master.txt
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/698c0eb52784be2df2dbd0e1c491fe03/master.txt
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/d1575a712001f84ff50c86188569ea2b/master.txt
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/03d3c03f5233335ff6701134fb7e0a76/master.txt
+56 Dias S1 : https://embedplayer1.xyz/cdn/hls/003493c80ee49b5e3bab029afe4a32b1/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/c359a355be7e437799d816aa6477118d/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/961583ed7039cec5199eeebb6f8a9962/master.txt
 Stranger Things Histórias de 85 S1 : https://embedplayer1.xyz/cdn/hls/66ec6f4d69238285e980ab10851bb77c/master.txt
