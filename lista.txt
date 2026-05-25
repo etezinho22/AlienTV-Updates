@@ -39,13 +39,7 @@ Runtime Romance : https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866&avo
 Runtime Cine Espanto : https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9e34020f7facd12dc96746cb4640b7c4&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1681832714&id=6801&ip=138.185.238.166&override_expiration=1500&sign=Ehtia3aTeal7w9671AgkoP3vkB58yPWVlADLdmGpHVU%3D
 Runtime Crime : https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9e34020f7facd12dc96746cb4640b7c4&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1681832680&id=6803&ip=138.185.238.166&override_expiration=1500&sign=u3Wa9TadoCY2c4mrMbnj8GvBYmM8l7343enPr%2BPD5o8%3D
 Televisa : https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/24d9651be0ba41cdbf0c3cb7aa8ab509/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/ccef1fb2964e9621ae5e610d89863d22/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/f89debd4b5712e0ddd3d00292545111c/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/946819be645435b8754a2a2c79c2a420/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/dcb9fa030b0b2485b746ebcc44780153/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/4af6c2b2748220db915985f6e3a9b7ed/master.txt
-Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/2f998fb5ee146cb3dc9ffe728fcd7845/master.txt
+
 
 
 SERIES: 
@@ -60,6 +54,13 @@ OS DEZ MANDAMENTOS : https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m
 A TERRA PROMETIDA : https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
 HEARTLAND : https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
 ROOKIE BLUE : https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/24d9651be0ba41cdbf0c3cb7aa8ab509/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/ccef1fb2964e9621ae5e610d89863d22/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/f89debd4b5712e0ddd3d00292545111c/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/946819be645435b8754a2a2c79c2a420/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/dcb9fa030b0b2485b746ebcc44780153/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/4af6c2b2748220db915985f6e3a9b7ed/master.txt
+Destinos dos Amaldiçoados com Zak Bagans S1 : https://embedplayer1.xyz/cdn/hls/2f998fb5ee146cb3dc9ffe728fcd7845/master.txt
 
 MUSICAS:
 
